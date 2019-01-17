@@ -25,11 +25,6 @@ export default class SecondActivity extends Component
     }
 
 
-    //fetchData = async () =>{
-        /*alert(547)
-        const response = await  fetch("https://randomuser.me/api?results=10");
-        const json = await response.json()
-        this.setState({data:json.results});*/
     fetchData = () =>{
 
         AsyncStorage.getItem("token").then((value) => {
@@ -44,7 +39,6 @@ export default class SecondActivity extends Component
                 }).then((responseData) => {
                     if (responseData.status == 200) {
                         (responseData.json()).then((responseD) => {
-                            //////////////////////////////////////
 
                             fetch('https://api.tiosplatform.com/api/project/' + responseD.organization_id + '/spaces', {
                                 method: 'GET',
@@ -59,35 +53,13 @@ export default class SecondActivity extends Component
                                         debugger
                                         this.setState({data:responseD.spaces});
 
-                                        //////////////////////////////////////
-                                        //if (responseD.spaces.count() > 0){
-                                        /*  fetch('https://api.tiosplatform.com/api/space/1/datasources', {
-                                              method: 'GET',
-                                              headers: {
-                                                  Accept: 'application/json',
-                                                  'Content-Type': 'application/json',
-                                                  'authorization': value
-                                              }
-                                          }).then((responseData) => {
-                                              debugger
-                                              if (responseData.status == 200) {
-                                                  (responseData.json()).then((responseD) => {
-                                                      debugger
-                                                  })
-                                              }
-                                          }).catch((error) => {
-                                              console.error(error);
-                                          });
-                                          // }*/
-
-                                        //////////////////////////////////////
                                     })
                                 }
                             }).catch((error) => {
                                 console.error(error);
                             });
 
-                            //////////////////////////////////////
+                            
                         })
                     }
                 }).catch((error) => {
