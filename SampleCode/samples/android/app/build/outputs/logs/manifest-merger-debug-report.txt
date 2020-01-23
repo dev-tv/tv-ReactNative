@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-i18n] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/dev21/.gradle/caches/transforms-2/files-2.1/868979206dcf3636156587a984f30914/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/c88632a778dbd241ba22bfe7ad8d317a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/6c3637b25e85fb4c5f258d2cdef99258/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/dbbaf5b3359afab7b5b15d634f9f474b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1daf8935e4b7ee2bb1f91089e4777fa7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/828d281fe5e59ec396915e8c8e533159/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/6c116837312994b95a6345fae02fcb1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/ab12e932ad0ce577a660d64b4f0c3592/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/0fb6f84ce6d9ebf8b9aaebd8d15c6602/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/debc6edf53017a1c02bb5b8559643fa1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/3224b5d62114e87f4e5e11f9bfc7de2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/cf238df033e62a595183c518399c8cec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/c6881e735800037e366d1f579d1a8d3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/be7b848d18b7754bea9a698b11d66ce9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/42b72bf0263bc59c28505fae4d23f406/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d6e5c31e384c29d16ea86e77a6632b51/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/0576fb49ee59921f96657d0e6a692576/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/8c15e6737ed99c453def0383f43d6435/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/f86a4ae10fe0ed73a88dad14947b082a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/5a657973dd30028c8db401f2f071c1e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/085bbfb7923a3b6c447b44797ae645b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1fe12ef96602e10ccb04f4a240596ca4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d7069bf5a9a4b9f3471ab8823f31f7d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/f1ddda241bb750596356be6e67ec8ba6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/bd41305627e32663753e1c6c0a82deac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/8f60ae531698af800c4262076f641dd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/3eee8364fa515c8c812d65ccb2f98379/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1839ab43cb402472b1486a7e80fc3c9c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/e4041a79bb4c6069f1a8fae3ffe7790d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/ef7dcb126a2f6b134f10c6d623d46c26/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/23e685371ea3d0876d185a396a426dfc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d69ddaf3b7ad260db810a2d0ff5f869c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/aee7ef7953686c1c3f33fe70aabcc8ae/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/7baeb1f6107068a1695251c571953e7d/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/dev21/.gradle/caches/transforms-2/files-2.1/868979206dcf3636156587a984f30914/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/dev21/.gradle/caches/transforms-2/files-2.1/868979206dcf3636156587a984f30914/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d6e5c31e384c29d16ea86e77a6632b51/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d6e5c31e384c29d16ea86e77a6632b51/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/0576fb49ee59921f96657d0e6a692576/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/0576fb49ee59921f96657d0e6a692576/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/aee7ef7953686c1c3f33fe70aabcc8ae/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/aee7ef7953686c1c3f33fe70aabcc8ae/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d6e5c31e384c29d16ea86e77a6632b51/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.testtaskhelpfulpeeps.MainActivity
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-i18n] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/dev21/.gradle/caches/transforms-2/files-2.1/868979206dcf3636156587a984f30914/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/dev21/.gradle/caches/transforms-2/files-2.1/868979206dcf3636156587a984f30914/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/c88632a778dbd241ba22bfe7ad8d317a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/c88632a778dbd241ba22bfe7ad8d317a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/6c3637b25e85fb4c5f258d2cdef99258/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/6c3637b25e85fb4c5f258d2cdef99258/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/dbbaf5b3359afab7b5b15d634f9f474b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/dbbaf5b3359afab7b5b15d634f9f474b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1daf8935e4b7ee2bb1f91089e4777fa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1daf8935e4b7ee2bb1f91089e4777fa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/828d281fe5e59ec396915e8c8e533159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/828d281fe5e59ec396915e8c8e533159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/6c116837312994b95a6345fae02fcb1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/6c116837312994b95a6345fae02fcb1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/ab12e932ad0ce577a660d64b4f0c3592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/ab12e932ad0ce577a660d64b4f0c3592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/0fb6f84ce6d9ebf8b9aaebd8d15c6602/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/0fb6f84ce6d9ebf8b9aaebd8d15c6602/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/debc6edf53017a1c02bb5b8559643fa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/debc6edf53017a1c02bb5b8559643fa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/3224b5d62114e87f4e5e11f9bfc7de2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/3224b5d62114e87f4e5e11f9bfc7de2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/cf238df033e62a595183c518399c8cec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/cf238df033e62a595183c518399c8cec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/c6881e735800037e366d1f579d1a8d3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/c6881e735800037e366d1f579d1a8d3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/be7b848d18b7754bea9a698b11d66ce9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/be7b848d18b7754bea9a698b11d66ce9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/42b72bf0263bc59c28505fae4d23f406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/42b72bf0263bc59c28505fae4d23f406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d6e5c31e384c29d16ea86e77a6632b51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d6e5c31e384c29d16ea86e77a6632b51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/0576fb49ee59921f96657d0e6a692576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/0576fb49ee59921f96657d0e6a692576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/8c15e6737ed99c453def0383f43d6435/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/8c15e6737ed99c453def0383f43d6435/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/f86a4ae10fe0ed73a88dad14947b082a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/f86a4ae10fe0ed73a88dad14947b082a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/5a657973dd30028c8db401f2f071c1e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/5a657973dd30028c8db401f2f071c1e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/085bbfb7923a3b6c447b44797ae645b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/085bbfb7923a3b6c447b44797ae645b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1fe12ef96602e10ccb04f4a240596ca4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1fe12ef96602e10ccb04f4a240596ca4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d7069bf5a9a4b9f3471ab8823f31f7d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d7069bf5a9a4b9f3471ab8823f31f7d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/f1ddda241bb750596356be6e67ec8ba6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/f1ddda241bb750596356be6e67ec8ba6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/bd41305627e32663753e1c6c0a82deac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/bd41305627e32663753e1c6c0a82deac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/8f60ae531698af800c4262076f641dd1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dev21/.gradle/caches/transforms-2/files-2.1/8f60ae531698af800c4262076f641dd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/3eee8364fa515c8c812d65ccb2f98379/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/3eee8364fa515c8c812d65ccb2f98379/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1839ab43cb402472b1486a7e80fc3c9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/1839ab43cb402472b1486a7e80fc3c9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/e4041a79bb4c6069f1a8fae3ffe7790d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/e4041a79bb4c6069f1a8fae3ffe7790d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/ef7dcb126a2f6b134f10c6d623d46c26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/ef7dcb126a2f6b134f10c6d623d46c26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/23e685371ea3d0876d185a396a426dfc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/23e685371ea3d0876d185a396a426dfc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d69ddaf3b7ad260db810a2d0ff5f869c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/d69ddaf3b7ad260db810a2d0ff5f869c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/aee7ef7953686c1c3f33fe70aabcc8ae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/aee7ef7953686c1c3f33fe70aabcc8ae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/7baeb1f6107068a1695251c571953e7d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/dev21/.gradle/caches/transforms-2/files-2.1/7baeb1f6107068a1695251c571953e7d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/src/debug/AndroidManifest.xml:5:22-75

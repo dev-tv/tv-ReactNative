@@ -1,0 +1,4 @@
+#Thu Jan 23 11:05:09 IST 2020
+base.0=/Users/dev21/Desktop/Nabila/ReactNative/TestTaskHelpfulpeeps/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
