@@ -15,15 +15,15 @@ RCT_EXPORT_MODULE();
 RCT_REMAP_METHOD(getCalculatedValue, resolver: (RCTPromiseResolveBlock)resolve
      rejecter:(RCTPromiseRejectBlock)reject)
 {
-  int sum = 0;
-  for (int i = 0; i < 1000; i++) {
-      for (int j = 0; j < 1000; j++) {
-          for (int k = 0; k < 1000; k++) {
+  long sum = 0;
+  for (long i = 0; i < 1000; i++) {
+      for (long j = 0; j < 1000; j++) {
+          for (long k = 0; k < 1000; k++) {
               sum = sum + i + j + k;
           }
       }
   }
-  NSString* valueToReturn = [NSString stringWithFormat:@"%d", sum];
+  NSString* valueToReturn = [NSString stringWithFormat:@"%ld", sum];
 
   if( valueToReturn ) {
     resolve(valueToReturn);
