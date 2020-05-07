@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { ScrollView, Text, Image, View, TouchableOpacity, Platform, ActivityIndicator } from 'react-native'
 import { Images } from '../Themes'
+import { Navigation } from 'react-native-navigation'
 
 // Styles
 import styles from './Styles/LaunchScreenStyles'
@@ -53,6 +54,18 @@ export default class LaunchScreen extends Component {
           <View style={styles.centered}>
             <Image source={Images.launch} style={styles.logo}/>
           </View>
+          <TouchableOpacity
+            style={styles.click_button}
+            onPress={() => {
+              Navigation.push(this.props.componentId, {
+                component: {
+                  id: 'NextScreen',
+                  name: 'NextScreen',
+                },
+              })
+            }}>
+            <Text style={{color: 'white'}}>{'Click me to go to Redirection screen'}</Text>
+          </TouchableOpacity>
           <TouchableOpacity
             style={styles.click_button}
             onPress={() => {

@@ -1,5 +1,19 @@
-import './App/Config/ReactotronConfig'
-import { AppRegistry } from 'react-native'
-import App from './App/Containers/App'
+import { Navigation } from 'react-native-navigation'
+import { registerScreens } from './App/Containers/screens'
 
-AppRegistry.registerComponent('TestApp', () => App)
+registerScreens()
+Navigation.events().registerAppLaunchedListener(async () => {
+  Navigation.setRoot({
+    root: {
+      stack: {
+        children: [
+          {
+            component: {
+              name: 'LaunchScreen',
+            },
+          },
+        ],
+      },
+    },
+  })
+})
